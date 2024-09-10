@@ -1,0 +1,24 @@
+cors- Cross-Origin Resource Sharing in Node. js is a mechanism by which a front-end client can 
+make requests for resources to an external back-end server.
+
+express-async-handler is a package that simplifies error handling for asynchronous route handlers 
+and middleware. It wraps your asynchronous function in a try/catch block automatically.
+ This means you don’t have to manually 
+write try/catch blocks for every route or middleware that performs asynchronous operations. 
+ enum-// useful for fields that should only accept a limited number of predefined values.
+
+next() -to pass control to the next middleware function or route handler in the Express.js pipeline
+
+ jwt-A JSON web token(JWT) is JSON Object which is used to securely transfer information over 
+ the web(between two parties). It can be used for an authentication system and can also be used for
+  information exchange.The token is mainly composed of header, payload, signature. 
+  This package is used to create and verify JSON Web Tokens.
+
+  dotenv-The dotenv package is a great way to keep passwords, API keys, 
+  and other sensitive data out of your code
+
+  bcryptt-Bcrypt is a cryptographic hash function designed for password hashing and safe storing
+   in the backend of applications
+
+   A MIME type (also known as a Multipurpose Internet Mail Extension) is a
+    standard that indicates the format of a file
